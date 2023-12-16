@@ -1,0 +1,19 @@
+body{
+  margin: 15px;
+}
+
+h3{
+  font-size: 25px;
+}
+
+#stopwatch {
+  font-weight:bold;
+  margin:20px 0 40px 20px;
+  font-size: 25px;
+}
+
+button {
+  font-weight: bold;
+  width: 120px; /* ボタンの幅を設定 */
+  height: 60px; /* ボタンの高さを設定 */
+}
